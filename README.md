@@ -2,7 +2,7 @@
 fist test in github
 
 
-hello githun editor
+hello github editor
 I am Kevin, how are you doing?
 I'd like to use c/c++ and python to develop some interesting events.
 
